@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# My first react project
+
+This project is my first try at react. You can see the finished project at
+[https://miimmonen.github.io/react-monsters/](https://miimmonen.github.io/react-monsters/).
+The beautiful pictures are from [Robohash](https://robohash.org/) and the names of the
+monsters are from public API for usernames at [JsonPlaceholder](https://jsonplaceholder.typicode.com/users).
+I hope you take a look at the website and I'm looking forward to having fun with React. =)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
